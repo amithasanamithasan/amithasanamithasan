@@ -13,7 +13,7 @@
 ## 🔥 About Me
 
 - 💻 Full Stack Developer (Frontend & Backend)
-- 🌱 Currently mastering **Next.js & Redux**
+- 🌱 I am  Currently learning **Next.js & Redux Typescript**
 - 🚀 Building [um-frontend](https://github.com/amithasanamithasan/um-frontend)
 - 📚 Love learning new technologies and solving problems
 - ⚡ Fun fact: "Hello world" was my first love ❤️
